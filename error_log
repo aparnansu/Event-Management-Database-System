@@ -1,0 +1,9 @@
+[29-Apr-2019 19:22:01 America/New_York] PHP Warning:  include(errors.php): failed to open stream: No such file or directory in /home/anrutger/public_html/Project/Registration.php on line 24
+[29-Apr-2019 19:22:01 America/New_York] PHP Warning:  include(errors.php): failed to open stream: No such file or directory in /home/anrutger/public_html/Project/Registration.php on line 24
+[29-Apr-2019 19:22:01 America/New_York] PHP Warning:  include(): Failed opening 'errors.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/anrutger/public_html/Project/Registration.php on line 24
+[29-Apr-2019 19:22:44 America/New_York] PHP Warning:  include(errors.php): failed to open stream: No such file or directory in /home/anrutger/public_html/Project/Registration.php on line 24
+[29-Apr-2019 19:22:44 America/New_York] PHP Warning:  include(errors.php): failed to open stream: No such file or directory in /home/anrutger/public_html/Project/Registration.php on line 24
+[29-Apr-2019 19:22:44 America/New_York] PHP Warning:  include(): Failed opening 'errors.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/anrutger/public_html/Project/Registration.php on line 24
+[29-Apr-2019 21:12:57 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/anrutger/public_html/Project/register.php on line 57
+[29-Apr-2019 21:16:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anrutger/public_html/Project/register.php on line 26
+[29-Apr-2019 21:16:50 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/anrutger/public_html/Project/register.php on line 27
