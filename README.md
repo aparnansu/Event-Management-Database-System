@@ -16,7 +16,4 @@ d)Sponsor[Anyone who would like to sponsor an event]
 
 
 Click the URL https://an674.rutgers-sci.domains/Project/homescreen.php
-Login with the following credentials:
-Username: rdravid@icc.com
-Password: nadf
 Try creating an event, participating or attending an event, viewing event details, etc.
